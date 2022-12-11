@@ -1,0 +1,26 @@
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\bin\Debug\Araba kıralama programı.exe
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\bin\Debug\Araba kıralama programı.pdb
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba_kıralama_programı.Form1.resources
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba_kıralama_programı.Properties.Resources.resources
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.csproj.GenerateResource.Cache
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.exe
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.pdb
+C:\Users\bt557\Desktop\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.csprojResolveAssemblyReference.cache
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.exe
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.pdb
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\3Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.exe
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\3Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.pdb
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\3Araba kıralama programı\Araba kıralama programı\bin\Debug\Araba kıralama programı.exe
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\3Araba kıralama programı\Araba kıralama programı\bin\Debug\Araba kıralama programı.pdb
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\3Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.csprojResolveAssemblyReference.cache
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\3Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba_kıralama_programı.Form1.resources
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\3Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba_kıralama_programı.Properties.Resources.resources
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\3Araba kıralama programı\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.csproj.GenerateResource.Cache
+D:\CsharpProjeleri\ArabaKiralamaProgrami\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.exe
+D:\CsharpProjeleri\ArabaKiralamaProgrami\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.pdb
+D:\CsharpProjeleri\ArabaKiralamaProgrami\Araba kıralama programı\bin\Debug\Araba kıralama programı.exe
+D:\CsharpProjeleri\ArabaKiralamaProgrami\Araba kıralama programı\bin\Debug\Araba kıralama programı.pdb
+D:\CsharpProjeleri\ArabaKiralamaProgrami\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.csprojResolveAssemblyReference.cache
+D:\CsharpProjeleri\ArabaKiralamaProgrami\Araba kıralama programı\obj\x86\Debug\Araba_kıralama_programı.Form1.resources
+D:\CsharpProjeleri\ArabaKiralamaProgrami\Araba kıralama programı\obj\x86\Debug\Araba_kıralama_programı.Properties.Resources.resources
+D:\CsharpProjeleri\ArabaKiralamaProgrami\Araba kıralama programı\obj\x86\Debug\Araba kıralama programı.csproj.GenerateResource.Cache
